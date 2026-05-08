@@ -130,7 +130,7 @@ npm run dev
 
 # GitHub Repository
 
-https://github.com/hello/urbankart
+https://github.com/CodingGHOST12/UrbanKart.git
 
 ---
 
