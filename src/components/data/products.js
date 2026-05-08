@@ -9,7 +9,7 @@ const products = [
     stock: 50,
     thumbnail: "/images/product-3.jpg",
     images: ["/images/product-3.jpg"],
-    description: "Fresh pasteurized toned milk for healthy daily nutrition.",
+    description: "Fresh pasteurised toned milk for healthy daily nutrition."
   },
 
   {
