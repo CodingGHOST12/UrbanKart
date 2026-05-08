@@ -4,10 +4,6 @@ import { Link } from "react-router-dom";
 import CartItem from "../CartItem/CartItem";
 import Header from "../Header/Header";
 
-/**
- * Cart Component - Shopping cart with item management
- * Features: Item display, total calculation, empty state, checkout link
- */
 function Cart() {
   const items = useSelector((state) => state.cart.items);
 
